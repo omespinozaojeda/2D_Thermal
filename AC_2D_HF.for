@@ -1,5 +1,10 @@
 !	Program to calculate 2D temperature profiles
-!
+!	Developed by: : E. Rivera-Calderón & O.M. Espinoza-Ojeda, 
+!	Instituto de Investigaciones en Ciencias de la Tierra, 
+!	Universidad Michoacana de San Nicolás de Hidalgo, 
+!	Morelia, Michoacán 58060, México.
+!	+52 443 269 8138; omespinozaoj@conacyt.mx
+
 !
 !      PROGRAMA PARA CALCULAR PERFILES DE TEMPERATURA EN ESTADO SEMITRANSITORIO
 !           EN DOS DIMENSIONES (2D) PARA CAMPOS GEOTÉRMICOS CONDUCTIVOS
